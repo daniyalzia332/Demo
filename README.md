@@ -1,4 +1,4 @@
 # Demo
 This is my git demo
 <br>
-Author - Daniyal zia
+Author - Daniyal zia (Daniyal zia)
